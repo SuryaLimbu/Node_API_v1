@@ -1,0 +1,25 @@
+
+npm init -y
+
+create serve.js file
+
+install express
+
+add script to package.json "serve" : "node server.js
+
+install nodemon -D
+ add script to package.json "dev":"nodemon server.js"
+
+install insomnia
+
+ //github 
+ git init
+ create .gitignore and add node_modules
+ git add .
+ git commit -m ""
+
+
+
+connect to database
+
+npm i mongoose
