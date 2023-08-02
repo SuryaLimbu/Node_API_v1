@@ -23,3 +23,16 @@ install insomnia
 connect to database
 
 npm i mongoose
+
+
+create .env file and install
+npm i detenv
+
+
+to handle as errors
+npm i express-async-handler
+
+
+CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+install express cors 
+
